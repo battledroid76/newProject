@@ -1,1 +1,2 @@
-print("Jeff")
+mynamejeff = "my name jeff"
+print(mynamejeff)
